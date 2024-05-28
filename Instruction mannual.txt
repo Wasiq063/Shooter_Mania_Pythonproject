@@ -1,0 +1,10 @@
+Game: Shooter Mania Pro
+Developers: M.Wasiq Shaikh & Basil Elahi Shamsi(Students Habib University)
+Controls:
+[w]--> shoot laser
+[d]--> move Right
+[a]--> move left
+[Space Bar]--> Launch Boost(kills all enemies of the level)
+[r]--> Launch decelerator(decreases enemy speed)
+
+@ All rights reserved 
